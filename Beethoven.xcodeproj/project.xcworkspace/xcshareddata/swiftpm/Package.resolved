@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Pitchy",
+        "repositoryURL": "git@github.com:dconstantinou/Pitchy.git",
+        "state": {
+          "branch": "develop",
+          "revision": "a28e75e2f3ed5202b0248365d2bc244a2987ea0a",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
